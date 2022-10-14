@@ -1,0 +1,10 @@
+aiui/*
+company/*
+diary/*
+M-report/*
+mishang/*
+project/*
+*.pyc
+.idea
+test.py
+md2pdf.py
