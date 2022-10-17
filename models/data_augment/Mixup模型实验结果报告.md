@@ -32,7 +32,7 @@ Mixup由MIT和facebook提出，无论在学术界还是在工业界都有比较�
 
 #### 2. 全量数据训练效果(TextCNN)
 
-<img src="D:\Document\pictures\27.png" width="600">
+<img src="../../pictures/27.png" width="600">
 
 #### 3. 实验训练数据
 
